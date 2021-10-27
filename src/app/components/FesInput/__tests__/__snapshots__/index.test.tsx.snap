@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FesInput  /> should match snapshot 1`] = `
+.c0 {
+  border-radius: 0;
+  padding: 6px 12px;
+  font-size: 15px;
+}
+
+.c0:focus {
+  border-color: #3c8dbc;
+  box-shadow: none;
+}
+
+<input
+  class="c0 form-control"
+  type="text"
+/>
+`;

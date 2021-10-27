@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UploadImage  /> should match snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0px;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class=""
+    style="padding-right: 30px;"
+  >
+    <div />
+  </div>
+</div>
+`;

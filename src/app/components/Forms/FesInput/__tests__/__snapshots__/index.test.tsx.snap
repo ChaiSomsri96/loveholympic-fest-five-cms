@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FesInput  /> should match snapshot 1`] = `
+.c0 {
+  background-color: #455167;
+  color: #fff;
+  padding-left: 2.5rem;
+}
+
+.c0.input {
+  background-color: #455167 !important;
+}
+
+.c0.form-control:focus {
+  background-color: #455167 !important;
+  color: #fff;
+}
+
+.c0::-webkit-input-placeholder {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 50;
+  font-size: 14px;
+  opacity: 50%;
+}
+
+<div
+  class=""
+>
+  <input
+    class="c0 form-control"
+    type="text"
+    value=""
+  />
+</div>
+`;

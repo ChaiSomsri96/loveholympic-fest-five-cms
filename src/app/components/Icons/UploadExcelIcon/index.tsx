@@ -1,0 +1,60 @@
+/**
+ *
+ * UploadExcelIcon
+ *
+ */
+import React, { memo } from 'react';
+import { useTranslation } from 'react-i18next';
+
+interface Props {}
+
+export const UploadExcelIcon = memo((props: Props) => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const { t, i18n } = useTranslation();
+
+  return (
+    <svg
+      width="26"
+      height="24"
+      viewBox="0 0 26 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g clipPath="url(#clip0)">
+        <path
+          d="M17.7437 21V19C17.7437 17.9391 17.3038 16.9217 16.5209 16.1716C15.7379 15.4214 14.676 15 13.5687 15H5.2187C4.11142 15 3.04949 15.4214 2.26653 16.1716C1.48357 16.9217 1.0437 17.9391 1.0437 19V21"
+          stroke="#F7F7F7"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          d="M9.39375 11C11.6995 11 13.5688 9.20914 13.5688 7C13.5688 4.79086 11.6995 3 9.39375 3C7.08796 3 5.21875 4.79086 5.21875 7C5.21875 9.20914 7.08796 11 9.39375 11Z"
+          stroke="#F7F7F7"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          d="M24.0063 21V19C24.0056 18.1137 23.6977 17.2528 23.1309 16.5523C22.5642 15.8519 21.7707 15.3516 20.875 15.13"
+          stroke="#F7F7F7"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          d="M16.7 3.13C17.598 3.35031 18.394 3.85071 18.9624 4.55232C19.5309 5.25392 19.8394 6.11683 19.8394 7.005C19.8394 7.89318 19.5309 8.75608 18.9624 9.45769C18.394 10.1593 17.598 10.6597 16.7 10.88"
+          stroke="#F7F7F7"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+      </g>
+      <defs>
+        <clipPath id="clip0">
+          <rect width="25.05" height="24" fill="white" />
+        </clipPath>
+      </defs>
+    </svg>
+  );
+});

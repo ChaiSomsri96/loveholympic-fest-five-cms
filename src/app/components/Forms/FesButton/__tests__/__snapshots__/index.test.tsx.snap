@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FesButton  /> should match snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.c1 {
+  width: 100%;
+  background-color: white;
+  color: #2148c0;
+  border-color: none;
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1 btn btn-secondary"
+  >
+    undefined
+  </button>
+</div>
+`;

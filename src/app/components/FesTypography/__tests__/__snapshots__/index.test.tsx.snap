@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FesTypography  /> should match snapshot 1`] = `
+.c0 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  margin-bottom: 5px;
+  color: #657d9d;
+}
+
+<span
+  class="c0"
+>
+  undefined
+</span>
+`;

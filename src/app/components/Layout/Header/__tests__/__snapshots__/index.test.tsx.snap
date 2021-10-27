@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header  /> should match snapshot 1`] = `
+.c0 {
+  width: 100%;
+  background-color: #3c8dbc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 5%;
+}
+
+.c0 button:hover {
+  background-color: #367fa9;
+}
+
+<div
+  class="c0"
+>
+  <button
+    aria-label="Toggle navigation"
+    class="navbar-toggler"
+    type="button"
+  />
+</div>
+`;

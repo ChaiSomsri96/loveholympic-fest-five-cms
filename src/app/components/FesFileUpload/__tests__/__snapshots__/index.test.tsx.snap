@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FesFileUpload  /> should match snapshot 1`] = `
+.c0 {
+  display: none;
+}
+
+<input
+  class="c0"
+  type="file"
+/>
+`;

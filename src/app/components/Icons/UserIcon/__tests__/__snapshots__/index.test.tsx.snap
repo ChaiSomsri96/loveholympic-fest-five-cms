@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UserIcon  /> should match snapshot 1`] = `
+<svg
+  fill="none"
+  height="20"
+  viewBox="0 0 26 20"
+  width="26"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M21.1657 17.5V15.8333C21.1657 14.9493 20.7226 14.1014 19.934 13.4763C19.1453 12.8512 18.0757 12.5 16.9604 12.5H8.54978C7.43447 12.5 6.36483 12.8512 5.57619 13.4763C4.78754 14.1014 4.34448 14.9493 4.34448 15.8333V17.5"
+    stroke="white"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M12.7551 9.16667C15.0776 9.16667 16.9604 7.67428 16.9604 5.83333C16.9604 3.99238 15.0776 2.5 12.7551 2.5C10.4326 2.5 8.5498 3.99238 8.5498 5.83333C8.5498 7.67428 10.4326 9.16667 12.7551 9.16667Z"
+    stroke="white"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
+`;

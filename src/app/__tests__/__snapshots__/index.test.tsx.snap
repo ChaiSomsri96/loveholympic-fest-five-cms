@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<React.Fragment>
+  <Helmet
+    defaultTitle="FestFive"
+    defer={true}
+    encodeSpecialCharacters={true}
+    htmlAttributes={
+      Object {
+        "lang": undefined,
+      }
+    }
+    titleTemplate="%s - FestFive"
+  >
+    <meta
+      content="A FestFive application"
+      name="description"
+    />
+  </Helmet>
+  <Switch>
+    <FesRoute
+      component={[Function]}
+      isProtected={false}
+      path="/auth"
+    />
+    <FesRoute
+      component={[Function]}
+      isProtected={true}
+      path="/"
+    />
+    <Route
+      component={[Function]}
+    />
+  </Switch>
+  <Memo(GlobalStyleComponent) />
+  <ToastContainer
+    autoClose={2000}
+    closeButton={[Function]}
+    closeOnClick={true}
+    draggable={true}
+    draggableDirection="x"
+    draggablePercent={80}
+    hideProgressBar={false}
+    newestOnTop={false}
+    pauseOnFocusLoss={true}
+    pauseOnHover={true}
+    position="top-right"
+    role="alert"
+    rtl={false}
+    transition={[Function]}
+  />
+  <Unknown />
+</React.Fragment>
+`;
