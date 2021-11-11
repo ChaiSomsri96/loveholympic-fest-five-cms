@@ -1,0 +1,294 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoUser  /> should match snapshot 1`] = `
+.c0 {
+  font-size: 14px;
+  position: relative;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 3px;
+  border-top: 3px solid #3c8dbc;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  margin-bottom: 20px;
+}
+
+.c0 button {
+  width: 100%;
+  background-color: #3c8dbc;
+  color: #ffffff;
+  margin-top: 10px;
+  padding: 6px 12px;
+  border: none;
+}
+
+.c0 button:hover {
+  background-color: #367fa9;
+}
+
+.c1 {
+  padding: 10px;
+}
+
+.c1 h3,
+.c1 > p {
+  text-align: center;
+}
+
+.c2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c2 span {
+  color: #3c8dbc;
+}
+
+<div
+  class="row"
+>
+  <div
+    class="info-user col-sm-12"
+  >
+    <div
+      class="c0 mr-3"
+    >
+      <div
+        class="c1"
+      >
+        <div
+          class="pb-5 text-center"
+        >
+          <img
+            alt=""
+            src="https://keno-techain-dev.s3.ap-southeast-1.amazonaws.com/public/images/2021-3-26/3/910ac7fa9c8a0c7fcff300afad0fa9b1_origin"
+          />
+          <img
+            alt=""
+            class="ml-4"
+            src="https://keno-techain-dev.s3.ap-southeast-1.amazonaws.com/public/images/2021-3-26/3/910ac7fa9c8a0c7fcff300afad0fa9b1_origin"
+          />
+        </div>
+        <h3>
+          Jonathan Burke Jr.
+        </h3>
+        <p
+          class="address"
+        >
+           Seoul
+        </p>
+        <div
+          class="c2"
+        >
+          <b>
+            Raking
+          </b>
+          <span>
+            123
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Heart
+          </b>
+          <span>
+            10000
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <p>
+            Lorem ipsum represents a long-held tradition for designers, typographers and the like. Some people hate it a nd argue for its demise, but others ignore the hate as they create awesome tools to help create filler text for everyone from bacon lovers to Charlie Sheen fans.
+          </p>
+        </div>
+        <button>
+          Block
+        </button>
+      </div>
+    </div>
+    <div
+      class="c0 mr-3"
+    >
+      <div
+        class="c1"
+      >
+        <h4>
+          Infomation
+        </h4>
+        <div
+          class="c2"
+        >
+          <b>
+            Phone
+          </b>
+          <span>
+            123 456 789 
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Email
+          </b>
+          <span>
+            10000
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Gender
+          </b>
+          <span>
+            Nam
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Age
+          </b>
+          <span>
+            23
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Area
+          </b>
+          <span>
+            Seoul
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Type
+          </b>
+          <span>
+             represents 
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Character
+          </b>
+          <span>
+             represents 
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c0"
+    >
+      <div
+        class="c1"
+      >
+        <h4>
+          Target Infomation
+        </h4>
+        <div
+          class="c2"
+        >
+          <b>
+            Name
+          </b>
+          <span>
+            Jonathan Burke Jr.
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Ranking
+          </b>
+          <span>
+            10000
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Heart
+          </b>
+          <span>
+            Nam
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Gender
+          </b>
+          <span>
+            23
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Age
+          </b>
+          <span>
+            23
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Area
+          </b>
+          <span>
+            Seoul
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Type
+          </b>
+          <span>
+             represents 
+          </span>
+        </div>
+        <div
+          class="c2"
+        >
+          <b>
+            Character
+          </b>
+          <span>
+            represents
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

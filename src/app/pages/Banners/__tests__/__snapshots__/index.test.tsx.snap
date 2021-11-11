@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Banners  /> should match snapshot 1`] = `
+.c0 {
+  background-color: #ecf0f5;
+  height: 100%;
+  padding: 1rem;
+}
+
+.c1 {
+  color: #2c5282;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 1.5rem;
+}
+
+<div
+  class="c0"
+>
+  <p
+    class="c1"
+  >
+    Banners
+  </p>
+</div>
+`;

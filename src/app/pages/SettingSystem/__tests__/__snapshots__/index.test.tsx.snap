@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SettingSystem  /> should match snapshot 1`] = `
+.c0 {
+  padding: 2rem 1rem;
+  background-color: #ecf0f5;
+  height: 100%;
+}
+
+.c1 {
+  color: #2c5282;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="col-sm-12"
+    >
+      <p
+        class="c1"
+      >
+        Setting System
+      </p>
+    </div>
+    <div
+      class="col-12 col-sm-6"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-header"
+        >
+          URL Lohol Goods
+        </div>
+        <div
+          class="card-body"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="pt-3 col-sm-12"
+            >
+              <input
+                class="form-control"
+                placeholder="loholGoodsURL"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="pt-3 col-sm-12"
+            >
+              <input
+                class="form-control"
+                placeholder="youtubeHistoryURL"
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <button
+            class="mt-4 btn btn-primary"
+            type="button"
+          >
+            Save
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-12 col-sm-6"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-header"
+        >
+          Logo System
+        </div>
+        <div
+          class="card-body"
+        >
+          <button
+            class="mt-4 btn btn-primary"
+            type="button"
+          >
+            Save
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
